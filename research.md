@@ -2,7 +2,8 @@
 
 - **[WinoQueer: A Community-in-the-Loop Benchmark for Anti-LGBTQ+ Bias in Large Language Models](https://arxiv.org/abs/2306.15087)**
 - 
-- **[Queer People are People First: Deconstructing Sexual Identity Stereotypes in Large Language Models](https://arxiv.org/abs/2307.00101)** ![english](https://img.shields.io/badge/language:-english-blue) ![real](https://img.shields.io/badge/type_of_answer:-full_answer-red) ![queer](https://img.shields.io/badge/bias:-queer_identity-green) 
+- **[Queer People are People First: Deconstructing Sexual Identity Stereotypes in Large Language Models](https://arxiv.org/abs/2307.00101)**
+![english](https://img.shields.io/badge/language:-english-blue) ![real](https://img.shields.io/badge/type_of_answer:-full_answer-red) ![queer](https://img.shields.io/badge/bias:-queer_identity-green) 
 
 
 > Prompts: Wikipedia biographies rewritten to remove explicit identity terms and gendered pronouns. An extra sentence is added stating that the person has a specific sexual identity.
