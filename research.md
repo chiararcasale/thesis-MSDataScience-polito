@@ -5,15 +5,14 @@
 - **[Queer People are People First: Deconstructing Sexual Identity Stereotypes in Large Language Models](https://arxiv.org/abs/2307.00101)**
 ![english](https://img.shields.io/badge/language:-english-blue) ![real](https://img.shields.io/badge/type_of_answer:-full_answer-red) ![queer](https://img.shields.io/badge/bias:-queer_identity-green) 
 
-
 > Prompts: Wikipedia biographies rewritten to remove explicit identity terms and gendered pronouns. An extra sentence is added stating that the person has a specific sexual identity.
 > The model’s responses are compared to see how the identity changes the generated descriptions.
-
+#
 - **[Transphobia Is in the Eye of the Prompter: Trans-Centered Perspectives on Large Language Models](https://dl.acm.org/doi/10.1145/3743676)** ![english](https://img.shields.io/badge/language:-english-blue)  ![real](https://img.shields.io/badge/type_of_answer:-full_answer-red) ![queer](https://img.shields.io/badge/bias:-queer_identity-green) 
 
 > Prompts: Quora questions about trans people are asked to LLMs.
 - **[Exploring LGBTQ+ Bias in Generative AI Answers across Different Country and Religious Contexts](https://arxiv.org/abs/2407.03473)** ![english](https://img.shields.io/badge/language:-english-blue)  ![real](https://img.shields.io/badge/type_of_answer:-full_answer-red) ![queer](https://img.shields.io/badge/bias:-queer_identity-green) ![race](https://img.shields.io/badge/bias:-race-yellow) ![religion](https://img.shields.io/badge/bias:-religion-pink) 
-
+#
 > Prompts: homophobic statements with incorporated contextual details about specific countries or religions.
 
 - **[Guardrails, not Guidance: Understanding Responses to  LGBTQ+ Language in Large Language Models](https://aclanthology.org/2025.queerinai-main.2/)** ![english](https://img.shields.io/badge/language:-english-blue)  ![emotions](https://img.shields.io/badge/type_of_answer:-emotions-purple) ![queer](https://img.shields.io/badge/bias:-queer_identity-green) 
