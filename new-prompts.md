@@ -76,4 +76,4 @@ Both main prompts were tested with numerous variations. Unless otherwise specifi
 -  The aforementioned approach where the prompt was structured as a role-playing persona, rather than as a recommendation system.
 -   Tests with and without the phrase "interested in both men and women" included in the profile.
 -   The second prompt was also tested by asking for the worse candidate instead of the better match. In that scenario, when candidates from the same pair were compared, the LLM almost exclusively selected whichever candidate appeared second in the prompt. 
--  The second prompt was initially tested without forcing the LLM to answer with only one of the names. In that case, when candidates from the same pair were compared, most of the answers were "equal," "same," "both good," or "neither."
+-  The second prompt was initially tested without forcing the LLM to answer with only one of the names. In that case, when candidates from the same pair were compared, most of the answers were "equal," "same," "both", "good," or "neither."
